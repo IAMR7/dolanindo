@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div.navbar-nav a.nav-link {
+    margin-right: 18px;
+}
+
+div.navbar-nav a.nav-link.active {
+    font-weight: bold !important;
+    color: rgb(226, 60, 60);
+}
+
+div.navbar-nav a.nav-link.menu {
+    color: rgb(189, 189, 189) !important;
+}
+
+div.navbar-nav a.nav-link.button-contact {
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    border-radius: 200px;
+}
+
+div.carousel-item img {
+    border-radius: 12PX;
+}
+
+div.search-destination img {
+    border-radius: 8px;
+    box-shadow: 30px 30px rgb(240, 240, 240);
+}
+
+div.search-destination input {
+    height: 64px;
+    width: 80%;
+    border: none;
+    border-radius: 200px;
+    background-color: rgb(241, 241, 241);
+}
+
+div.search-destination button.btn-danger {
+    border-radius: 200px;
+}
+
+a.link-card {
+    text-decoration: none;
+    color: #1F1F1F;
+}
+
+div.list-card {
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 0px 4px rgb(194, 194, 194);
+}
+
+div.list-card img {
+    border-radius: 8px;
+}
+
+div.list-card div.bintang i {
+    margin-right: 6px;
+}
+
+.btn.btn-read-more {
+    border-radius: 200px;
+}
